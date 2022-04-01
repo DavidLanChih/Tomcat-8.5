@@ -31,11 +31,6 @@ request.setAttribute("LAN", "/LAN_test/");
         <title><%=request.getServletContext().getServerInfo() %></title>
         <link href="favicon.ico" rel="icon" type="image/x-icon" />
         <link href="tomcat.css" rel="stylesheet" type="text/css" />
-        <style>
-            #LAN {
-                    color: red;
-                }
-        </style>
     </head>
 
     <body>
@@ -48,7 +43,7 @@ request.setAttribute("LAN", "/LAN_test/");
                 <span id="nav-wiki"><a href="https://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
-                <span id="nav-LAN"><a href="${LAN}index.jsp"><font color="red">藍智測試</font></a></span>
+                <span id="nav-LAN"><b href="${LAN}index.jsp"><font color="red"><strong>藍智測試</strong></font></b></span>
                 <br class="separator" />
             </div>
             <div id="asf-box">
