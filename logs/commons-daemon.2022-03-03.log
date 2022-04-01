@@ -1,0 +1,40 @@
+[2022-03-03 00:19:04] [info]  [13116] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-03-03 00:19:04] [info]  [13116] Installing service 'Tomcat8' name 'Apache Tomcat 8.5 Tomcat8'.
+[2022-03-03 00:19:04] [info]  [13116] Service 'Tomcat8' installed.
+[2022-03-03 00:19:04] [info]  [13116] Apache Commons Daemon procrun finished.
+[2022-03-03 00:19:05] [info]  [10596] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-03-03 00:19:05] [info]  [10596] Updating service...
+[2022-03-03 00:19:05] [info]  [10596] Updated service 'Tomcat8'.
+[2022-03-03 00:19:05] [info]  [10596] Finished updating service 'Tomcat8'.
+[2022-03-03 00:19:05] [info]  [10596] Apache Commons Daemon procrun finished.
+[2022-03-03 00:19:05] [info]  [ 6140] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-03-03 00:19:05] [info]  [ 6140] Updating service...
+[2022-03-03 00:19:05] [info]  [ 6140] Updated service 'Tomcat8'.
+[2022-03-03 00:19:05] [info]  [ 6140] Finished updating service 'Tomcat8'.
+[2022-03-03 00:19:05] [info]  [ 6140] Apache Commons Daemon procrun finished.
+[2022-03-03 00:19:05] [info]  [ 7684] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-03-03 00:19:05] [info]  [ 7684] Updating service...
+[2022-03-03 00:19:05] [info]  [ 7684] Updated service 'Tomcat8'.
+[2022-03-03 00:19:05] [info]  [ 7684] Finished updating service 'Tomcat8'.
+[2022-03-03 00:19:05] [info]  [ 7684] Apache Commons Daemon procrun finished.
+[2022-03-03 00:19:05] [info]  [ 8064] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-03-03 00:19:05] [info]  [ 8064] Updating service...
+[2022-03-03 00:19:05] [info]  [ 8064] Updated service 'Tomcat8'.
+[2022-03-03 00:19:05] [info]  [ 8064] Finished updating service 'Tomcat8'.
+[2022-03-03 00:19:05] [info]  [ 8064] Apache Commons Daemon procrun finished.
+[2022-03-03 00:19:10] [info]  [ 6088] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-03-03 00:19:10] [info]  [ 6088] Running Service 'Tomcat8'...
+[2022-03-03 00:19:10] [info]  [12088] Starting service...
+[2022-03-03 00:19:12] [info]  [12088] Service started in 1511 milliseconds.
+[2022-03-03 00:19:33] [info]  [12164] Stopping service...
+[2022-03-03 00:19:34] [info]  [12164] Service stop thread completed.
+[2022-03-03 00:19:34] [info]  [ 6088] Run service finished.
+[2022-03-03 00:19:34] [info]  [ 6088] Apache Commons Daemon procrun finished.
+[2022-03-03 00:20:48] [info]  [ 8328] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-03-03 00:20:48] [info]  [ 8328] Running Service 'Tomcat8'...
+[2022-03-03 00:20:48] [info]  [ 9220] Starting service...
+[2022-03-03 00:20:49] [info]  [ 9220] Service started in 1165 milliseconds.
+[2022-03-03 00:22:19] [info]  [ 5732] Stopping service...
+[2022-03-03 00:22:20] [info]  [ 5732] Service stop thread completed.
+[2022-03-03 00:22:20] [info]  [ 8328] Run service finished.
+[2022-03-03 00:22:20] [info]  [ 8328] Apache Commons Daemon procrun finished.
