@@ -1,0 +1,8 @@
+02-Apr-2022 01:23:53.764 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+02-Apr-2022 01:23:53.831 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+02-Apr-2022 01:23:53.868 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+02-Apr-2022 01:23:53.876 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-127.0.0.1-81"]
+02-Apr-2022 01:23:53.876 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Portal]
+02-Apr-2022 01:23:53.893 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-127.0.0.1-81"]
+02-Apr-2022 01:23:53.909 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+02-Apr-2022 01:23:53.911 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-127.0.0.1-81"]

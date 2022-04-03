@@ -100,3 +100,10 @@
 01-Apr-2022 21:26:46.245 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\web] has finished in [3,764] ms
 01-Apr-2022 21:26:46.247 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-127.0.0.1-81"]
 01-Apr-2022 21:26:46.249 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 9916 ms
+01-Apr-2022 21:37:57.603 資訊 [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\新增資料夾]
+01-Apr-2022 21:37:57.628 資訊 [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\新增資料夾] has finished in [26] ms
+01-Apr-2022 21:38:18.165 資訊 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/新增資料夾]
+01-Apr-2022 21:38:18.181 資訊 [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test]
+01-Apr-2022 21:38:18.202 資訊 [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test] has finished in [21] ms
+01-Apr-2022 22:31:51.849 資訊 [localhost-startStop-4] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test]
+01-Apr-2022 22:31:51.875 資訊 [localhost-startStop-4] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test] has finished in [26] ms
