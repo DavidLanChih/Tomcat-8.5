@@ -57,7 +57,7 @@
 %>
 
 <div>
-    <% showframe(); /*leeten.Date JDate=new leeten.Date();*/%>
+    <% showframe();/*leeten.Date JDate=new leeten.Date();*/%>
 </div>
 <div>
     <%=a %>. <%=b %>

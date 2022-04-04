@@ -97,12 +97,13 @@ request.setAttribute("LAN", "/LAN_test/");
                 <div class="col25">
                     <div class="container">
                         <p><a href="${tomcatExamplesUrl}">Examples</a></p>
+                        <p><a href="/J/index.jsp"><font color="red">JAVAbean測試</font></a></p>
                     </div>
                 </div>
                 <div class="col25">
                     <div class="container">
                         <p><a href="https://wiki.apache.org/tomcat/Specifications">Servlet Specifications</a></p>
-                        <p><a href="https://wiki.apache.org/tomcat/TomcatVersions">Tomcat Versions</a></p>
+                        <p><a href="/J/index_advance.jsp"><font color="red">JAVAbean進階</font></a></p>
                     </div>
                 </div>
                 <br class="separator" />

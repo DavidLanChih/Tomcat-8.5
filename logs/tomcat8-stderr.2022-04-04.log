@@ -1,0 +1,420 @@
+
+2022-04-04 15:13:10 Apache Commons Daemon procrun stderr initialized.
+04-Apr-2022 15:13:12.447 警告 [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+04-Apr-2022 15:13:12.469 警告 [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+04-Apr-2022 15:13:12.480 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.76
+04-Apr-2022 15:13:12.481 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 23 2022 17:59:11 UTC
+04-Apr-2022 15:13:12.481 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.76.0
+04-Apr-2022 15:13:12.481 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Apr-2022 15:13:12.481 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Apr-2022 15:13:12.481 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Apr-2022 15:13:12.481 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_311
+04-Apr-2022 15:13:12.481 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_311-b11
+04-Apr-2022 15:13:12.481 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Apr-2022 15:13:12.481 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 15:13:12.481 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 15:13:12.482 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 15:13:12.482 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 15:13:12.482 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 8.5\temp
+04-Apr-2022 15:13:12.482 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Apr-2022 15:13:12.482 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 8.5\conf\logging.properties
+04-Apr-2022 15:13:12.482 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+04-Apr-2022 15:13:12.482 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: abort
+04-Apr-2022 15:13:12.482 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+04-Apr-2022 15:13:12.482 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+04-Apr-2022 15:13:12.482 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Apache Software Foundation\Tomcat 8.5\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jre1.8.0_311\bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\ibm\gsk8\lib64;C:\Program Files\ibm\gsk8\bin;C:\Program Files\Java\jdk-14\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_311\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Users\LAN\AppData\Local\Programs\Python\Python310;C:\Users\LAN\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps;.]
+04-Apr-2022 15:13:13.516 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 15:13:13.618 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 15:13:13.619 資訊 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1633 ms
+04-Apr-2022 15:13:13.806 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Apr-2022 15:13:13.807 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 15:13:13.816 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs]
+04-Apr-2022 15:13:14.297 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [121] milliseconds.
+04-Apr-2022 15:13:14.319 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs] has finished in [503] ms
+04-Apr-2022 15:13:14.320 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test]
+04-Apr-2022 15:13:14.352 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test] has finished in [33] ms
+04-Apr-2022 15:13:14.352 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager]
+04-Apr-2022 15:13:14.410 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager] has finished in [58] ms
+04-Apr-2022 15:13:14.411 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT]
+04-Apr-2022 15:13:14.440 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT] has finished in [29] ms
+04-Apr-2022 15:13:14.440 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test]
+04-Apr-2022 15:13:14.464 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test] has finished in [24] ms
+04-Apr-2022 15:13:14.466 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 15:13:14.486 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Portal]
+04-Apr-2022 15:13:14.496 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 15:13:24.743 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 15:13:24.750 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\Base64]
+04-Apr-2022 15:13:24.784 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\Base64] has finished in [34] ms
+04-Apr-2022 15:13:24.784 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\install]
+04-Apr-2022 15:13:24.801 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\install] has finished in [17] ms
+04-Apr-2022 15:13:24.801 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\web]
+04-Apr-2022 15:13:28.174 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 15:13:28.179 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\web] has finished in [3,378] ms
+04-Apr-2022 15:13:28.181 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 15:13:28.184 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 14564 ms
+04-Apr-2022 17:02:52.830 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:02:52.906 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Apr-2022 17:02:52.941 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:02:52.946 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:02:52.946 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Portal]
+04-Apr-2022 17:02:52.965 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:02:52.981 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:02:52.993 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-127.0.0.1-81"]
+
+2022-04-04 17:03:03 Apache Commons Daemon procrun stderr initialized.
+04-Apr-2022 17:03:03.962 警告 [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+04-Apr-2022 17:03:03.970 警告 [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+04-Apr-2022 17:03:03.981 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.76
+04-Apr-2022 17:03:03.981 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 23 2022 17:59:11 UTC
+04-Apr-2022 17:03:03.981 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.76.0
+04-Apr-2022 17:03:03.981 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Apr-2022 17:03:03.981 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Apr-2022 17:03:03.981 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Apr-2022 17:03:03.981 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_311
+04-Apr-2022 17:03:03.981 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_311-b11
+04-Apr-2022 17:03:03.981 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Apr-2022 17:03:03.981 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:03:03.981 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:03:03.982 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:03:03.982 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:03:03.982 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 8.5\temp
+04-Apr-2022 17:03:03.982 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Apr-2022 17:03:03.982 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 8.5\conf\logging.properties
+04-Apr-2022 17:03:03.982 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+04-Apr-2022 17:03:03.982 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: abort
+04-Apr-2022 17:03:03.983 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+04-Apr-2022 17:03:03.983 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+04-Apr-2022 17:03:03.983 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Apache Software Foundation\Tomcat 8.5\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jre1.8.0_311\bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\ibm\gsk8\lib64;C:\Program Files\ibm\gsk8\bin;C:\Program Files\Java\jdk-14\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_311\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Users\LAN\AppData\Local\Programs\Python\Python310;C:\Users\LAN\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps;.]
+04-Apr-2022 17:03:04.172 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:03:04.213 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:03:04.214 資訊 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 733 ms
+04-Apr-2022 17:03:04.318 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Apr-2022 17:03:04.318 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 17:03:04.327 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs]
+04-Apr-2022 17:03:04.644 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs] has finished in [317] ms
+04-Apr-2022 17:03:04.645 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test]
+04-Apr-2022 17:03:04.676 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test] has finished in [31] ms
+04-Apr-2022 17:03:04.677 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager]
+04-Apr-2022 17:03:04.718 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager] has finished in [41] ms
+04-Apr-2022 17:03:04.719 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT]
+04-Apr-2022 17:03:04.768 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT] has finished in [49] ms
+04-Apr-2022 17:03:04.768 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test]
+04-Apr-2022 17:03:04.788 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test] has finished in [20] ms
+04-Apr-2022 17:03:04.791 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:03:04.818 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Portal]
+04-Apr-2022 17:03:04.818 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 17:03:09.822 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 17:03:09.833 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\Base64]
+04-Apr-2022 17:03:09.913 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\Base64] has finished in [80] ms
+04-Apr-2022 17:03:09.913 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\install]
+04-Apr-2022 17:03:09.937 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\install] has finished in [24] ms
+04-Apr-2022 17:03:09.937 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\web]
+04-Apr-2022 17:03:13.612 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 17:03:13.619 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\web] has finished in [3,682] ms
+04-Apr-2022 17:03:13.620 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:03:13.622 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 9408 ms
+04-Apr-2022 17:05:06.533 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:05:06.604 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Apr-2022 17:05:06.626 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:05:06.641 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:05:06.642 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Portal]
+04-Apr-2022 17:05:06.660 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:05:06.673 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:05:06.675 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-127.0.0.1-81"]
+
+2022-04-04 17:05:23 Apache Commons Daemon procrun stderr initialized.
+04-Apr-2022 17:05:24.262 警告 [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+04-Apr-2022 17:05:24.268 警告 [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+04-Apr-2022 17:05:24.278 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.76
+04-Apr-2022 17:05:24.279 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 23 2022 17:59:11 UTC
+04-Apr-2022 17:05:24.279 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.76.0
+04-Apr-2022 17:05:24.279 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Apr-2022 17:05:24.279 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Apr-2022 17:05:24.279 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Apr-2022 17:05:24.279 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_311
+04-Apr-2022 17:05:24.280 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_311-b11
+04-Apr-2022 17:05:24.280 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Apr-2022 17:05:24.280 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:05:24.280 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:05:24.280 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:05:24.281 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:05:24.281 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 8.5\temp
+04-Apr-2022 17:05:24.281 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Apr-2022 17:05:24.281 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 8.5\conf\logging.properties
+04-Apr-2022 17:05:24.281 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+04-Apr-2022 17:05:24.281 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: abort
+04-Apr-2022 17:05:24.281 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+04-Apr-2022 17:05:24.281 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+04-Apr-2022 17:05:24.282 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Apache Software Foundation\Tomcat 8.5\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jre1.8.0_311\bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\ibm\gsk8\lib64;C:\Program Files\ibm\gsk8\bin;C:\Program Files\Java\jdk-14\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_311\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Users\LAN\AppData\Local\Programs\Python\Python310;C:\Users\LAN\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps;.]
+04-Apr-2022 17:05:24.430 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:05:24.463 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:05:24.464 資訊 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 633 ms
+04-Apr-2022 17:05:24.558 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Apr-2022 17:05:24.558 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 17:05:24.568 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs]
+04-Apr-2022 17:05:24.897 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs] has finished in [329] ms
+04-Apr-2022 17:05:24.898 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test]
+04-Apr-2022 17:05:24.933 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test] has finished in [34] ms
+04-Apr-2022 17:05:24.933 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager]
+04-Apr-2022 17:05:24.980 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager] has finished in [47] ms
+04-Apr-2022 17:05:24.980 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT]
+04-Apr-2022 17:05:25.037 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT] has finished in [56] ms
+04-Apr-2022 17:05:25.037 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test]
+04-Apr-2022 17:05:25.060 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test] has finished in [23] ms
+04-Apr-2022 17:05:25.063 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:05:25.093 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Portal]
+04-Apr-2022 17:05:25.093 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 17:05:29.659 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 17:05:29.668 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\Base64]
+04-Apr-2022 17:05:29.689 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\Base64] has finished in [21] ms
+04-Apr-2022 17:05:29.689 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\install]
+04-Apr-2022 17:05:29.707 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\install] has finished in [18] ms
+04-Apr-2022 17:05:29.707 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\web]
+04-Apr-2022 17:05:33.056 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 17:05:33.062 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\web] has finished in [3,355] ms
+04-Apr-2022 17:05:33.063 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:05:33.066 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 8601 ms
+04-Apr-2022 17:12:52.103 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:12:52.174 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Apr-2022 17:12:52.198 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:12:52.211 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:12:52.213 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Portal]
+04-Apr-2022 17:12:52.234 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:12:52.243 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:12:52.246 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-127.0.0.1-81"]
+
+2022-04-04 17:13:03 Apache Commons Daemon procrun stderr initialized.
+04-Apr-2022 17:13:03.993 警告 [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+04-Apr-2022 17:13:04.000 警告 [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+04-Apr-2022 17:13:04.010 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.76
+04-Apr-2022 17:13:04.010 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 23 2022 17:59:11 UTC
+04-Apr-2022 17:13:04.010 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.76.0
+04-Apr-2022 17:13:04.010 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Apr-2022 17:13:04.010 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Apr-2022 17:13:04.010 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Apr-2022 17:13:04.010 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_311
+04-Apr-2022 17:13:04.010 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_311-b11
+04-Apr-2022 17:13:04.010 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Apr-2022 17:13:04.010 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:13:04.011 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:13:04.011 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:13:04.011 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:13:04.011 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 8.5\temp
+04-Apr-2022 17:13:04.011 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Apr-2022 17:13:04.012 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 8.5\conf\logging.properties
+04-Apr-2022 17:13:04.012 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+04-Apr-2022 17:13:04.012 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: abort
+04-Apr-2022 17:13:04.012 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+04-Apr-2022 17:13:04.012 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+04-Apr-2022 17:13:04.012 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Apache Software Foundation\Tomcat 8.5\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jre1.8.0_311\bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\ibm\gsk8\lib64;C:\Program Files\ibm\gsk8\bin;C:\Program Files\Java\jdk-14\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_311\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Users\LAN\AppData\Local\Programs\Python\Python310;C:\Users\LAN\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps;.]
+04-Apr-2022 17:13:04.152 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:13:04.185 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:13:04.185 資訊 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 603 ms
+04-Apr-2022 17:13:04.269 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Apr-2022 17:13:04.269 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 17:13:04.277 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs]
+04-Apr-2022 17:13:04.579 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs] has finished in [301] ms
+04-Apr-2022 17:13:04.579 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test]
+04-Apr-2022 17:13:04.611 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test] has finished in [32] ms
+04-Apr-2022 17:13:04.612 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager]
+04-Apr-2022 17:13:04.662 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager] has finished in [50] ms
+04-Apr-2022 17:13:04.662 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT]
+04-Apr-2022 17:13:04.718 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT] has finished in [56] ms
+04-Apr-2022 17:13:04.719 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test]
+04-Apr-2022 17:13:04.740 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test] has finished in [22] ms
+04-Apr-2022 17:13:04.742 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:13:04.767 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Portal]
+04-Apr-2022 17:13:04.767 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 17:13:08.921 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 17:13:08.934 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\Base64]
+04-Apr-2022 17:13:08.955 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\Base64] has finished in [21] ms
+04-Apr-2022 17:13:08.955 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\install]
+04-Apr-2022 17:13:08.981 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\install] has finished in [26] ms
+04-Apr-2022 17:13:08.981 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\web]
+04-Apr-2022 17:13:12.661 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 17:13:12.666 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\web] has finished in [3,685] ms
+04-Apr-2022 17:13:12.668 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:13:12.670 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 8483 ms
+04-Apr-2022 17:39:18.332 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:39:18.402 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Apr-2022 17:39:18.426 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:39:18.440 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:39:18.442 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Portal]
+04-Apr-2022 17:39:18.462 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:39:18.474 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:39:18.477 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-127.0.0.1-81"]
+
+2022-04-04 17:39:28 Apache Commons Daemon procrun stderr initialized.
+04-Apr-2022 17:39:29.409 警告 [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+04-Apr-2022 17:39:29.416 警告 [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+04-Apr-2022 17:39:29.427 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.76
+04-Apr-2022 17:39:29.427 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 23 2022 17:59:11 UTC
+04-Apr-2022 17:39:29.427 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.76.0
+04-Apr-2022 17:39:29.427 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Apr-2022 17:39:29.427 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Apr-2022 17:39:29.428 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Apr-2022 17:39:29.428 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_311
+04-Apr-2022 17:39:29.428 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_311-b11
+04-Apr-2022 17:39:29.428 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Apr-2022 17:39:29.428 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:39:29.428 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:39:29.428 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:39:29.428 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 17:39:29.428 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 8.5\temp
+04-Apr-2022 17:39:29.428 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Apr-2022 17:39:29.429 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 8.5\conf\logging.properties
+04-Apr-2022 17:39:29.429 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+04-Apr-2022 17:39:29.429 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: abort
+04-Apr-2022 17:39:29.429 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+04-Apr-2022 17:39:29.429 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+04-Apr-2022 17:39:29.429 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Apache Software Foundation\Tomcat 8.5\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jre1.8.0_311\bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\ibm\gsk8\lib64;C:\Program Files\ibm\gsk8\bin;C:\Program Files\Java\jdk-14\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_311\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Users\LAN\AppData\Local\Programs\Python\Python310;C:\Users\LAN\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps;.]
+04-Apr-2022 17:39:29.571 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:39:29.605 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:39:29.606 資訊 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 605 ms
+04-Apr-2022 17:39:29.695 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Apr-2022 17:39:29.696 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 17:39:29.706 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs]
+04-Apr-2022 17:39:30.001 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs] has finished in [295] ms
+04-Apr-2022 17:39:30.001 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test]
+04-Apr-2022 17:39:30.033 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test] has finished in [32] ms
+04-Apr-2022 17:39:30.033 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager]
+04-Apr-2022 17:39:30.079 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager] has finished in [46] ms
+04-Apr-2022 17:39:30.079 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT]
+04-Apr-2022 17:39:30.133 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT] has finished in [54] ms
+04-Apr-2022 17:39:30.133 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test]
+04-Apr-2022 17:39:30.154 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test] has finished in [21] ms
+04-Apr-2022 17:39:30.156 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 17:39:30.181 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Portal]
+04-Apr-2022 17:39:30.181 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 17:39:34.296 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 17:39:34.305 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\Base64]
+04-Apr-2022 17:39:34.323 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\Base64] has finished in [18] ms
+04-Apr-2022 17:39:34.324 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\install]
+04-Apr-2022 17:39:34.342 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\install] has finished in [18] ms
+04-Apr-2022 17:39:34.342 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\web]
+04-Apr-2022 17:39:37.791 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 17:39:37.797 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\web] has finished in [3,455] ms
+04-Apr-2022 17:39:37.798 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 17:39:37.800 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 8194 ms
+04-Apr-2022 20:36:19.548 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 20:36:19.619 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Apr-2022 20:36:19.648 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 20:36:19.654 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 20:36:19.655 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Portal]
+04-Apr-2022 20:36:19.675 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 20:36:19.689 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 20:36:19.691 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-127.0.0.1-81"]
+
+2022-04-04 20:36:34 Apache Commons Daemon procrun stderr initialized.
+04-Apr-2022 20:36:35.512 警告 [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+04-Apr-2022 20:36:35.519 警告 [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+04-Apr-2022 20:36:35.529 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.76
+04-Apr-2022 20:36:35.530 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 23 2022 17:59:11 UTC
+04-Apr-2022 20:36:35.530 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.76.0
+04-Apr-2022 20:36:35.530 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Apr-2022 20:36:35.530 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Apr-2022 20:36:35.530 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Apr-2022 20:36:35.530 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_311
+04-Apr-2022 20:36:35.530 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_311-b11
+04-Apr-2022 20:36:35.530 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Apr-2022 20:36:35.530 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 20:36:35.530 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 20:36:35.531 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 20:36:35.531 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 20:36:35.531 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 8.5\temp
+04-Apr-2022 20:36:35.531 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Apr-2022 20:36:35.531 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 8.5\conf\logging.properties
+04-Apr-2022 20:36:35.531 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+04-Apr-2022 20:36:35.531 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: abort
+04-Apr-2022 20:36:35.531 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+04-Apr-2022 20:36:35.531 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+04-Apr-2022 20:36:35.531 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Apache Software Foundation\Tomcat 8.5\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jre1.8.0_311\bin;C:\Program Files (x86)\Java\jdk1.7.0_80\bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\ibm\gsk8\lib64;C:\Program Files\ibm\gsk8\bin;C:\Program Files\Java\jdk1.8.0_311\bin;C:\Program Files\Java\jdk-14\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Users\LAN\AppData\Local\Programs\Python\Python310;C:\Users\LAN\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps;.]
+04-Apr-2022 20:36:35.668 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 20:36:35.702 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 20:36:35.703 資訊 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 594 ms
+04-Apr-2022 20:36:35.792 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Apr-2022 20:36:35.792 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 20:36:35.801 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs]
+04-Apr-2022 20:36:36.092 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs] has finished in [291] ms
+04-Apr-2022 20:36:36.093 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test]
+04-Apr-2022 20:36:36.140 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test] has finished in [47] ms
+04-Apr-2022 20:36:36.141 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager]
+04-Apr-2022 20:36:36.185 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager] has finished in [44] ms
+04-Apr-2022 20:36:36.185 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT]
+04-Apr-2022 20:36:36.225 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT] has finished in [40] ms
+04-Apr-2022 20:36:36.225 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test]
+04-Apr-2022 20:36:36.247 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test] has finished in [22] ms
+04-Apr-2022 20:36:36.250 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 20:36:36.274 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Portal]
+04-Apr-2022 20:36:36.274 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 20:36:41.399 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 20:36:41.407 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\Base64]
+04-Apr-2022 20:36:41.430 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\Base64] has finished in [23] ms
+04-Apr-2022 20:36:41.430 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\install]
+04-Apr-2022 20:36:41.448 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\install] has finished in [18] ms
+04-Apr-2022 20:36:41.448 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\web]
+04-Apr-2022 20:36:45.039 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 20:36:45.045 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\web] has finished in [3,597] ms
+04-Apr-2022 20:36:45.051 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 20:36:45.053 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 9349 ms
+04-Apr-2022 21:15:41.706 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 21:15:41.775 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Apr-2022 21:15:41.802 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 21:15:41.816 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 21:15:41.817 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Portal]
+04-Apr-2022 21:15:42.526 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 21:15:42.536 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 21:15:42.537 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-127.0.0.1-81"]
+
+2022-04-04 21:33:22 Apache Commons Daemon procrun stderr initialized.
+04-Apr-2022 21:33:22.699 警告 [main] org.apache.catalina.core.StandardContext.setPath A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+04-Apr-2022 21:33:22.707 警告 [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'debug' to '0' did not find a matching property.
+04-Apr-2022 21:33:22.717 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.76
+04-Apr-2022 21:33:22.718 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 23 2022 17:59:11 UTC
+04-Apr-2022 21:33:22.718 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.76.0
+04-Apr-2022 21:33:22.718 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Apr-2022 21:33:22.718 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Apr-2022 21:33:22.718 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Apr-2022 21:33:22.718 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_311
+04-Apr-2022 21:33:22.718 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_311-b11
+04-Apr-2022 21:33:22.718 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Apr-2022 21:33:22.719 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 21:33:22.719 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 21:33:22.719 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 21:33:22.719 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+04-Apr-2022 21:33:22.719 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 8.5\temp
+04-Apr-2022 21:33:22.719 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Apr-2022 21:33:22.720 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 8.5\conf\logging.properties
+04-Apr-2022 21:33:22.720 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+04-Apr-2022 21:33:22.720 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: abort
+04-Apr-2022 21:33:22.720 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+04-Apr-2022 21:33:22.720 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+04-Apr-2022 21:33:22.720 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Apache Software Foundation\Tomcat 8.5\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jre1.8.0_311\bin;C:\Program Files (x86)\Java\jdk1.7.0_80\bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\ibm\gsk8\lib64;C:\Program Files\ibm\gsk8\bin;C:\Program Files\Java\jdk1.8.0_311\bin;C:\Program Files\Java\jdk-14\bin;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Users\LAN\AppData\Local\Programs\Python\Python310;C:\Users\LAN\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps;.]
+04-Apr-2022 21:33:22.861 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 21:33:22.896 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 21:33:22.896 資訊 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 602 ms
+04-Apr-2022 21:33:22.986 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Apr-2022 21:33:22.986 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 21:33:22.995 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs]
+04-Apr-2022 21:33:23.285 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\docs] has finished in [290] ms
+04-Apr-2022 21:33:23.285 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test]
+04-Apr-2022 21:33:23.334 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\LAN_test] has finished in [49] ms
+04-Apr-2022 21:33:23.334 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager]
+04-Apr-2022 21:33:23.384 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager] has finished in [50] ms
+04-Apr-2022 21:33:23.384 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT]
+04-Apr-2022 21:33:23.437 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\ROOT] has finished in [53] ms
+04-Apr-2022 21:33:23.437 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test]
+04-Apr-2022 21:33:23.459 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\test] has finished in [22] ms
+04-Apr-2022 21:33:23.461 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 21:33:23.486 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Portal]
+04-Apr-2022 21:33:23.486 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.76]
+04-Apr-2022 21:33:28.763 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 21:33:28.775 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\Base64]
+04-Apr-2022 21:33:28.794 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\Base64] has finished in [19] ms
+04-Apr-2022 21:33:28.795 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\install]
+04-Apr-2022 21:33:28.814 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\install] has finished in [19] ms
+04-Apr-2022 21:33:28.815 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\CY_JSP\Portal\web]
+04-Apr-2022 21:33:32.716 資訊 [portal-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Apr-2022 21:33:32.723 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\web] has finished in [3,908] ms
+04-Apr-2022 21:33:32.725 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 21:33:32.727 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 9830 ms

@@ -52,3 +52,11 @@
 03-Apr-2022 13:20:26.724 資訊 [portal-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\CY_JSP\Portal\web] has finished in [3,560] ms
 03-Apr-2022 13:20:26.729 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-127.0.0.1-81"]
 03-Apr-2022 13:20:26.731 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 13623 ms
+04-Apr-2022 01:16:11.769 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 01:16:11.835 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Apr-2022 01:16:11.859 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 01:16:11.861 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 01:16:11.862 資訊 [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Portal]
+04-Apr-2022 01:16:11.878 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-127.0.0.1-81"]
+04-Apr-2022 01:16:11.897 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Apr-2022 01:16:11.900 資訊 [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-127.0.0.1-81"]
