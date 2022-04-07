@@ -29,12 +29,42 @@ request.setAttribute("LAN", "/LAN_test/");
     <head>
         <meta charset="UTF-8" />
         <title><%=request.getServletContext().getServerInfo() %></title>
-        <link href="favicon.ico" rel="icon" type="image/x-icon" />
+        <!--<link href="favicon.ico" rel="icon" type="image/x-icon" />-->
+        <link rel="icon" href="littledog.png" type="image/x-icon" sizes="16x16">
         <link href="tomcat.css" rel="stylesheet" type="text/css" />
         <style>
             #LAN {
                     color: red;
                 }
+            #middle_2 
+            {
+                background: rgb(247, 197, 234, 0.4);
+                margin: 20px 0;
+                padding: 1px 10px;
+            }
+
+            #middle_2 h3 
+            {
+                margin: 0 0 10px;
+                color: #033;
+            }
+            #middle_2 p 
+            {
+                font-size: 10pt;
+            }
+
+            #middle_2 .col25 .container 
+            {
+                padding: 0 0 1px;
+            }
+            #middle_2 a:link,
+            #middle_2 a:visited,
+            #middle_2 a:hover,
+            #middle_2 a:active 
+            {
+                color: green;
+                font-weight: bold;
+            }           
         </style>
     </head>
 
@@ -48,18 +78,20 @@ request.setAttribute("LAN", "/LAN_test/");
                 <span id="nav-wiki"><a href="https://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+                <span id="nav-ODBC"><a href="ODBC.jsp"><font color="red">連結ODBC</font></a></span>
                 <span id="nav-LAN"><a href="${LAN}index.jsp"><font color="red">藍智測試</font></a></span>
                 <br class="separator" />
             </div>
             <div id="asf-box">
-                <h1>${pageContext.servletContext.serverInfo}</h1>
+                <h2>${pageContext.servletContext.serverInfo}</h2>
             </div>
             <div id="upper" class="curved container">
                 <div id="congrats" class="curved container">
                     <h2>歡迎來到藍智測試區! 願主耶穌祝福您一切順利!</h2>
                 </div>
                 <div id="notice">
-                    <img id="tomcat-logo" src="tomcat.svg" alt="[tomcat logo]" />
+                    <!--<img id="tomcat-logo" src="tomcat.svg" alt="[tomcat logo]" />-->
+                    <img id="logo" src="littledog.png" alt="[logo]" width="130" height="100" />
                     <div id="tasks">
                         <h3>Recommended Reading:</h3>
                         <h4><a href="${tomcatDocUrl}security-howto.html">Security Considerations How-To</a></h4>
@@ -81,7 +113,7 @@ request.setAttribute("LAN", "/LAN_test/");
                 <br class="separator" />
             </div>
             <div id="middle" class="curved container">
-                <h3>Developer Quick Start</h3>
+                <h3>Developer Quick Start &nbsp; &nbsp;  #每次備份到不同Tomcat只需拷貝webapps即可</h3>
                 <div class="col25">
                     <div class="container">
                         <p><a href="${tomcatDocUrl}setup.html">Tomcat Setup</a></p>
@@ -104,6 +136,34 @@ request.setAttribute("LAN", "/LAN_test/");
                     <div class="container">
                         <p><a href="https://wiki.apache.org/tomcat/Specifications">Servlet Specifications</a></p>
                         <p><a href="/J/index_advance.jsp"><font color="red">JAVAbean進階</font></a></p>
+                    </div>
+                </div>
+                <br class="separator" />
+            </div>
+            <div id="middle_2" class="curved container">
+                <h3>圖表測試區</h3>
+                <div class="col25">
+                    <div class="container">
+                        <p><a href="/chart/SayHello.jsp">簡易圖表</a></p>
+                        <p><a href="">重劃區2</a></p>
+                    </div>
+                </div>
+                <div class="col25">
+                    <div class="container">
+                        <p><a href="">重劃區3</a></p>
+                        <p><a href="">重劃區4</a></p>
+                    </div>
+                </div>
+                <div class="col25">
+                    <div class="container">
+                        <p><a href="">重劃區5</a></p>
+                        <p><a href="">重劃區6</a></p>
+                    </div>
+                </div>
+                <div class="col25">
+                    <div class="container">
+                        <p><a href="">重劃區7</a></p>
+                        <p><a href="">重劃區8</a></p>
                     </div>
                 </div>
                 <br class="separator" />
